@@ -220,26 +220,26 @@ print(le.inverse_transform(x_prediction))
 ```
 
 ## Dataset Information
-![output](![s1](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/1253d147-d36f-47cf-826a-a610f0cf8c0a)
-)
+![s1](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/34af7b36-85ce-42fa-bf15-ebfd05ef20b0)
+
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
+![s2](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/371bacb9-f451-498a-a225-49cfa9058f6f)
 
 ### Classification Report
 
-Include Classification Report here
+![s3](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/00672d8b-3248-4447-8a78-3d96749daba7)
 
 ### Confusion Matrix
 
-Include confusion matrix here
-
+![s4](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/b7e47ed3-5ab4-47bc-a973-22eea3f3d129)
 
 ### New Sample Data Prediction
-
-Include your sample input and output here
+![s5](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/399be178-cff4-46f2-91f1-a1b9338baf29)
+![s6](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/e4c91d4a-663e-4073-b8f5-efb782c972d4)
+![s7](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/9212bd00-8604-41ef-8cad-c74bce9b94e8)
 
 ## RESULT
+A neural network classification model is developed for the given dataset.
