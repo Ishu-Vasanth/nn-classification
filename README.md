@@ -238,7 +238,9 @@ print(le.inverse_transform(x_prediction))
 
 ### New Sample Data Prediction
 ![s5](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/399be178-cff4-46f2-91f1-a1b9338baf29)
+
 ![s6](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/e4c91d4a-663e-4073-b8f5-efb782c972d4)
+
 ![s7](https://github.com/Ishu-Vasanth/nn-classification/assets/94154614/9212bd00-8604-41ef-8cad-c74bce9b94e8)
 
 ## RESULT
